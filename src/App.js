@@ -23,8 +23,6 @@ const footerItems = [
   'Settings',
 ];
 
-const height = 1023;
-
 function App() {
   return (
     <div className="flex flex-col lg:h-[100vh] bg-black">
